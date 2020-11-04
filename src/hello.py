@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def main(args):
-  print('')
+    print(args)
 
 
 if __name__ == "__main__":
