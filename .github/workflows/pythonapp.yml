@@ -20,6 +20,3 @@ jobs:
         run: |
           pip install pytest
           pytest
-      - name: Run make file
-        run: |
-          make test code-style code-lint
